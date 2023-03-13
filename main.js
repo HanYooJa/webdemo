@@ -7,8 +7,8 @@ function pink() {
 function lightblue() {
   document.body.style.backgroundColor = 'lightblue'
 }
-function yellow() {
-  document.body.style.backgroundColor = 'yellow'
+function White() {
+  document.body.style.backgroundColor = 'White'
 }
 function reset() {
   document.body.style.backgroundColor = 'linen'
